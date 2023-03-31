@@ -1,6 +1,6 @@
 echo "Cloning Repo...."
 
-git clone https://github.com/ScriptBuddy/extract /extract
+git clone https://github.com/ScriptBuddy16/extract /extract
 
 cd /extract
 
